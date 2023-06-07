@@ -8,12 +8,12 @@ A simple assembler for E20 assembly language.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Functionality](#functionality)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
-This project includes a C++ implementation of an E20 Assembler. The Assembler takes in E20 assembly language files and converts them into machine code.
+This repository contains a C++ implementation of an E20 Assembler. It is designed to convert E20 assembly instructions into corresponding machine code. The program operates by parsing the provided assembly file, interpreting the instructions, and generating corresponding machine code. This utility can be a crucial tool for any developer working with E20 assembly language, providing an automated method to translate their assembly code into machine language.
+
 
 ## Installation
 
