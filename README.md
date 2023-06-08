@@ -5,8 +5,6 @@ A simple assembler for E20 assembly language.
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Functionality](#functionality)
 
 
@@ -14,16 +12,6 @@ A simple assembler for E20 assembly language.
 
 This repository contains a C++ implementation of an E20 Assembler. It is designed to convert E20 assembly instructions into corresponding machine code. The program operates by parsing the provided assembly file, interpreting the instructions, and generating corresponding machine code. This utility can be a crucial tool for any developer working with E20 assembly language, providing an automated method to translate their assembly code into machine language.
 
-
-## Installation
-
-1. Clone the repository: `git clone https://github.com/username/repository.git`
-2. Navigate into the directory: `cd repository`
-
-## Usage
-
-1. Compile the program with the following command: `g++ -o asm asm.cpp`
-2. Run the compiled program with an assembly file as input: `./asm inputfile.s`
 
 ## Functionality
 
